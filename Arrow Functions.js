@@ -68,3 +68,19 @@ function add7(x) {
 function add11(x) {
 	return x + 11;
 }
+/*
+Other Solution 
+*/
+const add2 = x => x+2
+const add3 = x => x+3
+const add5 = x => x+5
+const add7 = x => x+7
+const add11 = x => x+11
+/*
+Other Solution 
+*/
+add2 = (x) => x + 2;
+add3 = (x) => x + 3;
+add5 = (x) => x + 5;
+add7 = (x) => x + 7;
+add11 = (x) => x + 11;
