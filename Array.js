@@ -12,4 +12,5 @@ Solution
 function makePair(num1, num2) {
 	let array = [num1 , num2];
 	return array;
+	console.log(array);
 }
